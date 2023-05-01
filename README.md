@@ -1,5 +1,5 @@
 # feedback-app
-Feedback app is a web application This is a React app to leave feedback for a product or service.
+Feedback app is a React app to leave feedback for a product or service.
 
 The app is built using React and it is designed with CSS.
 
